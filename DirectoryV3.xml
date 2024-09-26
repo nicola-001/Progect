@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/src/config/axios/errorCode.ts" title="错误码"/>
+     <tree path="/src/config/axios/config.ts" title="请求信息"/>
+     <tree path="/src/config/axios/index.ts" title="封装请求方法" extension="" presentableText="" tooltipTitle=""
+           icon="" textColor="" backgroundColor=""/>
+     <tree path="/src/config/axios/service.ts" title="拦截器" extension="" presentableText="" tooltipTitle="" icon=""
+           textColor="" backgroundColor=""/>
+     <tree path="/src/hooks/web/useNprogress.ts" title="封装Nprogress"/>
+     <tree path="/src/permission.ts" title="路由鉴权"/>
+ </trees>
